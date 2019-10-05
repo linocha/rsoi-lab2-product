@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Products.Domain.Models;
 
 namespace Products.Persistence.Contexts
 {
