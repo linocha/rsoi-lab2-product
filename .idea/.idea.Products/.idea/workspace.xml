@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e7d1fe3-c27d-45ee-b1af-325a08cfe7c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Products/Persistence/Repositories/BaseRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Products/Persistence/Repositories/ProductRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Products/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Products/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Products/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Products/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Products/Persistence/Contexts/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Products/Persistence/Contexts/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/Products.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Products/Products.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/obj/Debug/netcoreapp3.0/Products.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Products/obj/Debug/netcoreapp3.0/Products.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/obj/Debug/netcoreapp3.0/Products.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Products/obj/Debug/netcoreapp3.0/Products.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/obj/Products.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Products/obj/Products.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/obj/Products.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Products/obj/Products.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Products/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Products/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Products/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,13 +25,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Products/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Products/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Products/Domain/Services/IProductService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Products/Controllers/ProductsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Products/Domain/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Products/Domain/Repositories/IProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Products/Persistence/Contexts/AppDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Products/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Products/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Products/Persistence/Repositories/BaseRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Products/Domain/Repositories/IProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Products/Persistence/Repositories/ProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Products/Services/ProductService.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -36,14 +48,20 @@
         <option value="$PROJECT_DIR$/Products/Services/ProductService.cs" />
         <option value="$PROJECT_DIR$/Products/Persistence/Contexts/DbContext.cs" />
         <option value="$PROJECT_DIR$/Products/Persistence/Contexts/AppDbContext.cs" />
+        <option value="$PROJECT_DIR$/Products/Persistence/Repositories/BaseRepository.cs" />
+        <option value="$PROJECT_DIR$/Products/Persistence/Repositories/ProductRepository.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1RmvBDnr8BCTZvXYb0dD5sL8PQX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -107,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570284947320</updated>
-      <workItem from="1570284948788" duration="4048000" />
+      <workItem from="1570284948788" duration="6438000" />
     </task>
     <servers />
   </component>
